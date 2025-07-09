@@ -4,7 +4,8 @@ A lightweight, zero-dependency command-line interface (CLI) tool for managing yo
 
 This project is built using only native modules, storing tasks in a simple `tasks.json` file in the project directory.
 
-Url of my project: https://github.com/ShikhiyevRufat/Task-Tracker
+Url of my project: https://roadmap.sh/projects/task-tracker
+
 
 ***
 
